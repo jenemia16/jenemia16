@@ -4,7 +4,7 @@ I'm a **Notion Consultant & Systems Designer** and founder of [Jenius Systems](h
 
 I help founders and growing businesses turn complex workflows into clear, scalable business systems.
 
-**🛠️ What I work on**
+**What I work on:**
 
 - **Business Operating Systems** – Centralized hubs for company operations and strategic planning
 - **CRM & Client Management** – Scalable systems to track, nurture, and manage client relationships
@@ -13,11 +13,11 @@ I help founders and growing businesses turn complex workflows into clear, scalab
 - **Custom Notion Interfaces** – Enhanced UX, database views, and interactive dashboards
 - **AI-assisted System Prototyping** – Rapid iteration and optimization of workflows
 
-**💡 My approach**
+**My approach:**
 
 Native Notion when possible. Extended solutions when necessary.
 
-**🔗 Connect with me**
+**Connect with me:**
 
 - 🌐 [Jenius Systems](https://jenemiacolico.notion.site)
 - 💼 Open to project inquiries and consulting opportunities
