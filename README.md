@@ -1,16 +1,13 @@
-👋 Hi, I’m Jenemia — a Notion Systems Designer & Freelancer.
-
-🛠️ I build smart dashboards, trackers, and workflows in Notion
-
-📊 I have a background in data analytics & virtual assistance
-
-🎨 I also design digital products (planners, templates, client portals)
-
-🚀 Currently exploring automation, UX design, and system integrations
-
-💡 I love turning clutter into clarity with clean, efficient systems.
-
-<!---
-jenemia16/jenemia16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Jenemia 👋
+I'm a Notion Consultant & Systems Designer and founder of Jenius Systems.
+I help founders and growing businesses turn complex workflows into clear, scalable business systems.
+My work primarily focuses on Notion consulting, information architecture, workflow design, automation, and business operations. I also explore ways to extend Notion beyond its native capabilities through integrations, APIs, AI-assisted development, and custom interfaces.
+What I work on
+→ Business Operating Systems
+→ CRM & Client Management Systems
+→ Project & Operations Systems
+→ Notion Automations & Integrations
+→ Custom Notion Interfaces & Experiences
+→ AI-assisted system prototyping
+My approach: Native Notion when possible. Extended solutions when necessary.
+Jenius Systems · jenemiacolico.notion.site
